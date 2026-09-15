@@ -89,7 +89,8 @@ I'm available for:
 
 ## 📫 Get in Touch
 
-Feel free to explore my repositories to see my work in action, or reach out to discuss your project requirements.
+Feel free to explore my repositories to see my work in action, or reach out to discuss your project requirements. You can also connect with me directly at **[Sudais8075@gmail.com](mailto:Sudais8075@gmail.com)** for any project or collaboration opportunities.
+
 
 ---
 
