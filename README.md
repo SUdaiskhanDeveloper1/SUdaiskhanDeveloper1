@@ -1,97 +1,29 @@
-# Sudais Khan - Full Stack Developer 👨‍💻
+# Sudais Khan · Full-Stack Engineer
 
-## Professional Summary
+Full-stack developer with a frontend focus, based in Islamabad, Pakistan. I build web applications with **React, Next.js and TypeScript**, and I'm comfortable owning the data layer underneath: **Supabase / PostgreSQL** schemas, row-level security, SQL functions and triggers, and **Node.js / Express** APIs when a project needs its own backend.
 
-Results-driven Full Stack Developer with expertise in building scalable, production-ready web applications. Specialized in modern JavaScript ecosystem with proven experience in e-commerce platforms, enterprise management systems, and real-time utility applications. Committed to delivering high-quality, user-centric solutions that drive business growth.
+Currently: Full-Stack AI Engineer at Wispa Digital · MSc Computer Science (AI) at UET Mardan.
 
----
+## Featured work
 
-## 🎯 Core Competencies
+| Project | What it is | Stack |
+|---|---|---|
+| [Lavish Hostel Management](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [live](https://lavish-boys-hostel-theta.vercel.app) | Hostel operations app: admissions, room allocation, fee receipts (PDF), payroll, reports with Excel export, audit log, daily Google Sheets backup | React, TypeScript, Supabase, TanStack Query, Ant Design |
+| LuckyDraw.PK (private client code) · [live](https://luckydraw-pk.vercel.app) | Prize-draw campaign platform with user dashboard, payment verification and admin back office; 19-table Postgres schema with row-level security | Next.js, TypeScript, Supabase |
+| [Pulse Analytics](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard: revenue, MRR/ARR, customers, transactions, traffic | Next.js, TanStack Query, TanStack Table, Recharts, Zod |
+| [Laptop Shop Manager](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory, purchases and sales back office with real-time data | React, Ant Design, Firebase |
+| [EstatePro](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [live](https://real-estate-system-ten.vercel.app) | Real estate listings UI (mock data) | Next.js, Chakra UI, Framer Motion |
+| [CareSync](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [live](https://health-remote.vercel.app) | Healthcare SaaS UI with patient and provider dashboards (mock data) | Next.js, Chakra UI |
 
-### Frontend Development
-- **Frameworks & Libraries**: React, Next.js, TypeScript
-- **Specialization**: Component architecture, performance optimization, responsive UI/UX
-- **Best Practices**: Clean code, accessibility standards, testing practices
+## Stack
 
-### Backend Development
-- **Runtime & Languages**: Node.js, JavaScript, TypeScript
-- **Focus Areas**: RESTful APIs, real-time data handling, database optimization
+- **Frontend:** React, Next.js (App Router), TypeScript, JavaScript, Tailwind CSS, TanStack Query, Ant Design, Chakra UI
+- **Backend & data:** Supabase (PostgreSQL, Auth, Storage, RLS), Node.js, Express, MongoDB, Firebase
+- **AI:** LLM features with RAG, LangChain and LangGraph (work projects)
+- **Tools:** Git, GitHub, Vercel, Cypress
 
-### Database & Cloud Services
-- **Platforms**: Supabase, Firebase
-- **Capabilities**: Real-time synchronization, authentication, data management
+## Contact
 
----
+[LinkedIn](https://www.linkedin.com/in/sudaiskhan733) · Sudais8075@gmail.com
 
-## 💼 Project Portfolio
-
-### E-Commerce Solutions
-- **Online Shoe Store**: Full-stack marketplace platform with inventory management, shopping cart, and payment integration
-- **Modern E-Commerce Store**: Scalable retail platform with advanced filtering, product recommendations, and order management
-
-### Enterprise Management Systems
-- **Laptop Shop Management**: Point-of-sale system with inventory tracking and sales analytics
-- **Hostel Management System**: Booking system, guest management, and operational workflows
-- **Real Estate Management Platform**: Property listings, tenant management, and lease tracking
-- **Furniture Showroom System**: Catalog management, customization tools, and order processing
-
-### Utility & Productivity Applications
-- **Task Management System**: Real-time todo lists with notifications and collaboration features
-- **Notification Engine**: Real-time alert system with multi-channel delivery
-- **News Feed Application**: Content aggregation and personalization platform
-
----
-
-## 🛠️ Technology Stack
-
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | JavaScript, TypeScript |
-| **Frontend** | React, Next.js, Responsive Design |
-| **Backend** | Node.js, REST APIs |
-| **Databases** | Supabase, Firebase |
-| **Expertise** | Full Stack Development, Real-time Applications |
-
----
-
-## 🎓 Approach to Development
-
-✅ **Quality First**: Clean, maintainable code with comprehensive testing
-✅ **Scalability**: Architecting solutions that grow with business needs
-✅ **Performance**: Optimized applications for speed and reliability
-✅ **Collaboration**: Strong communication skills for team and client engagement
-✅ **Innovation**: Staying current with industry best practices and emerging technologies
-
----
-
-## 📊 What I Can Deliver
-
-- **Full-Stack Web Applications**: From concept to production deployment
-- **Performance Optimization**: Faster load times and improved user experience
-- **Scalable Backend Systems**: APIs designed to handle growth
-- **Real-Time Features**: Live updates, notifications, and data synchronization
-- **Technical Consultation**: Architecture recommendations and tech stack guidance
-- **Maintenance & Support**: Ongoing development and bug fixes
-
----
-
-## 🤝 Let's Collaborate
-
-I'm available for:
-- 💼 Full-time positions
-- 🤝 Contract & freelance projects
-- 📋 Consulting & technical architecture
-- 👥 Team collaboration and mentoring
-
-**Whether you're looking to build a new product, scale an existing platform, or need a skilled developer for your team, I'd love to discuss how I can contribute to your success.**
-
----
-
-## 📫 Get in Touch
-
-Feel free to explore my repositories to see my work in action, or reach out to discuss your project requirements. You can also connect with me directly at **[Sudais8075@gmail.com](mailto:Sudais8075@gmail.com)** for any project or collaboration opportunities.
-
-
----
-
-*Last Updated: September 2026*
+Open to Frontend, Full-Stack and Software Engineer roles, remote or with relocation.
