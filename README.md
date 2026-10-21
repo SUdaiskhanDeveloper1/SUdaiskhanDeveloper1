@@ -39,15 +39,14 @@ const sudais = {
 
 ## ⭐ Featured Projects
 
-👉 **Short on time?** Start with **Lavish Hostel Management** (full-stack, live) and **Hirewave** (two-sided marketplace, clean architecture and a full README).
+👉 **Short on time?** Start with **LuckyDraw.PK** (live, full-stack with Supabase) and **Hirewave** (two-sided marketplace, clean architecture and a full README).
 
 ### 🚀 Product Builds
 
-- **[Lavish Hostel Management](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-)** · [Live demo](https://lavish-boys-hostel-theta.vercel.app/)<br>Hostel operations platform: admissions, room allocation, fee collection with PDF receipts, payroll, reporting and an audit log, backed by Postgres triggers<br>🛠 React · TypeScript · Vite · Ant Design · Supabase · PostgreSQL
 - **LuckyDraw.PK** · [Live site](https://luckydraw-pk.vercel.app/) · *client project, code private*<br>Campaign platform for prize draws with user dashboards, payment verification, and an admin back office for live operations<br>🛠 Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 - **[Hirewave](https://github.com/SUdaiskhanDeveloper1/Hirewave)**<br>Two-sided job marketplace: filtered job search, saved jobs and application tracking for candidates, plus a recruiter dashboard with analytics, an applicant pipeline and a job-posting wizard<br>🛠 Next.js 16 · React 19 · TypeScript · TanStack Query · Tailwind CSS 4
 - **[Pulse Analytics](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard)**<br>SaaS analytics dashboard: revenue, MRR/ARR, customers and traffic, built as a frontend on a typed mock data layer<br>🛠 Next.js · TypeScript · TanStack Query and Table · Recharts · Zod
-- **[Laptop Shop Manager](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system)**<br>Back-office system for stock, suppliers, purchases, sales, expenses and reports, with real-time updates<br>🛠 React · Vite · Ant Design · Firebase (Firestore · Auth · Storage)
+- **[SpendWise](https://github.com/SUdaiskhanDeveloper1/spendwise-finance-dashboard)**<br>Personal finance dashboard with interactive charts<br>🛠 Next.js · TypeScript · Chakra UI · Recharts · Framer Motion
 - **[EstatePro](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System)** · [Live demo](https://real-estate-system-ten.vercel.app/)<br>Property marketplace UI: search, property pages, agent profiles and a lead dashboard (mock data)<br>🛠 Next.js · TypeScript · Chakra UI · Framer Motion
 - **[CareSync](https://github.com/SUdaiskhanDeveloper1/Health-remote)** · [Live demo](https://health-remote.vercel.app/)<br>Healthcare SaaS interface with patient and provider dashboards, care programs and appointment flows (mock data)<br>🛠 Next.js · TypeScript · Chakra UI
 
