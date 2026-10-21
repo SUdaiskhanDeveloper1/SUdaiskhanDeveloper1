@@ -4,7 +4,7 @@
 
 **Full-Stack AI Engineer | React • Next.js • TypeScript • Supabase • PostgreSQL**
 
-### 🚀 Building practical, scalable, and user-focused digital products
+### 🚀 Building scalable products with clean UX, strong engineering, and AI-driven thinking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudaiskhan733-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudaiskhan733)
 [![Email](https://img.shields.io/badge/Email-Sudais8075@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sudais8075@gmail.com)
@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer with a frontend focus**, based in **Islamabad, Pakistan**, building **responsive, high-performance web applications** with **React, Next.js and TypeScript**. I also work across the stack to deliver reliable product experiences using modern backend and AI tooling.
+I’m a **Full-Stack Software Engineer with a frontend-first mindset**, based in **Islamabad, Pakistan**. I build fast, user-centric web applications using **React, Next.js, TypeScript, and modern backend architecture**. My work spans product design, front-end engineering, data modeling, and AI-powered features.
 
 - 🏢 **Full-Stack AI Engineer** at **Wispa Digital**
-- 🎓 **MSc Computer Science (Artificial Intelligence)** at UET Mardan
-- 🤖 Building **LLM-powered features** with **RAG, LangChain and LangGraph**
-- 🌍 Open to **remote** or **relocation** opportunities
+- 🎓 **MSc Computer Science (Artificial Intelligence)** at **UET Mardan**
+- 🤖 Building **LLM-powered products** with **RAG, LangChain, and LangGraph**
+- 🌍 Open to **remote** and **relocation** opportunities
 
 ```ts
 const sudais = {
@@ -39,14 +39,14 @@ const sudais = {
 
 ## ⭐ Featured Projects
 
-| Project | Impact | Stack |
+| Project | What It Delivers | Tech Stack |
 |---|---|---|
-| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform covering admissions, room management, billing, and admin workflows | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
-| [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* | Prize-draw campaign platform with user dashboard, payment verification, and admin reporting for a live marketing product | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
-| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard for revenue insights, MRR/ARR tracking, customer reporting, and transaction monitoring | Next.js, TypeScript, TanStack Query, PostgreSQL, Supabase |
-| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory and sales management system for purchasing, stock tracking, and operational reporting | React, Ant Design, Firebase, JavaScript |
-| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Modern property listing experience with responsive browsing and a polished front-end experience | Next.js, Chakra UI, Framer Motion, TypeScript |
-| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS dashboard designed for patient and provider workflows with a clean, product-focused interface | Next.js, Tailwind CSS, TypeScript, UI/UX Design |
+| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform covering admissions, room allocation, billing, reporting, and admin workflows | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* |Campaign platform for prize draws with user dashboards, payment verification, and an admin back office for live operations | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard for revenue tracking, MRR/ARR monitoring, customer insights, and transaction reporting | Next.js, TypeScript, TanStack Query, Supabase, PostgreSQL |
+| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory management system for purchases, stock tracking, sales operations, and business reporting | React, Ant Design, Firebase, JavaScript |
+| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Modern property marketplace UI focused on listing discovery, clean navigation, and polished user experience | Next.js, Chakra UI, Framer Motion, TypeScript |
+| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS interface for patient and provider workflows with a streamlined, product-focused dashboard experience | Next.js, Tailwind CSS, TypeScript, UI/UX Design |
 
 ---
 
@@ -100,17 +100,17 @@ const sudais = {
 
 ## 💼 What I Bring to a Team
 
-- **Production-ready React & Next.js development:** component-driven UIs, App Router, data fetching and caching with TanStack Query
-- **Secure database design:** PostgreSQL schemas, row-level security, SQL functions and triggers on Supabase
-- **End-to-end ownership:** from database to dashboard, including auth, payments, PDF and Excel reporting, and audit logging
-- **AI-powered features:** LLM integrations using RAG, LangChain and LangGraph
-- **Live, deployed products:** projects shipped to production on Vercel
+- **Product-focused frontend engineering:** clean component architecture, responsive interfaces, and strong UX decisions
+- **Full-stack product delivery:** database design, business logic, API integration, and deployment-ready implementation
+- **AI-enabled product thinking:** LLM integrations, retrieval workflows, and practical use-case design
+- **Ownership from concept to launch:** design, build, iterate, and ship real-world digital products
+- **Live deployment experience:** projects shipped and maintained in production environments
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-I'm **open to Frontend Developer, Full-Stack Developer and Software Engineer roles**, remote or with relocation.
+I’m open to **Frontend Developer, Full-Stack Developer, and Software Engineer** roles, including remote opportunities.
 
 📧 [Sudais8075@gmail.com](mailto:Sudais8075@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sudaiskhan733)
 
