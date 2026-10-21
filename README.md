@@ -87,6 +87,17 @@ const sudais = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SUdaiskhanDeveloper1&show_icons=true&theme=tokyonight&hide_border=true" alt="Sudais Khan GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUdaiskhanDeveloper1&layout=compact&theme=tokyonight&hide_border=true" alt="Sudais Khan top programming languages" height="170" />
+
+</div>
+
+---
+
 ## 💼 What I Bring to a Team
 
 - **Production-ready React & Next.js development:** component-driven UIs, App Router, data fetching and caching with TanStack Query
