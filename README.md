@@ -4,7 +4,7 @@
 
 **Full-Stack AI Engineer | React • Next.js • TypeScript • Supabase • PostgreSQL**
 
-### 🚀 Building Fast, Scalable & Production-Ready Web Applications
+### 🚀 Building practical, scalable, and user-focused digital products
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudaiskhan733-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudaiskhan733)
 [![Email](https://img.shields.io/badge/Email-Sudais8075@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sudais8075@gmail.com)
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer with a frontend focus**, based in **Islamabad, Pakistan**, building **responsive, high-performance web applications** with **React, Next.js and TypeScript**. I also own the data layer: **Supabase / PostgreSQL schemas, row-level security (RLS), SQL functions and triggers**, plus **Node.js / Express REST APIs** when a project needs a custom backend.
+I'm a **Full-Stack Software Engineer with a frontend focus**, based in **Islamabad, Pakistan**, building **responsive, high-performance web applications** with **React, Next.js and TypeScript**. I also work across the stack to deliver reliable product experiences using modern backend and AI tooling.
 
 - 🏢 **Full-Stack AI Engineer** at **Wispa Digital**
 - 🎓 **MSc Computer Science (Artificial Intelligence)** at UET Mardan
@@ -39,14 +39,14 @@ const sudais = {
 
 ## ⭐ Featured Projects
 
-| Project | What It Does | Tech Stack |
+| Project | Impact | Stack |
 |---|---|---|
-| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform: admissions, room allocation, PDF fee receipts, payroll, Excel-export reports, audit log and daily Google Sheets backup | React, TypeScript, Supabase, TanStack Query, Ant Design |
-| [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* | Prize-draw campaign platform with user dashboard, payment verification and admin back office; 19-table PostgreSQL schema with row-level security | Next.js, TypeScript, Supabase |
-| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard: revenue, MRR/ARR, customers, transactions and traffic | Next.js, TanStack Query, TanStack Table, Recharts, Zod |
-| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory, purchases and sales back office with real-time data | React, Ant Design, Firebase |
-| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Real estate listings UI *(mock data)* | Next.js, Chakra UI, Framer Motion |
-| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS UI with patient and provider dashboards *(mock data)* | Next.js, Chakra UI |
+| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform covering admissions, room management, billing, and admin workflows | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* | Prize-draw campaign platform with user dashboard, payment verification, and admin reporting for a live marketing product | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard for revenue insights, MRR/ARR tracking, customer reporting, and transaction monitoring | Next.js, TypeScript, TanStack Query, PostgreSQL, Supabase |
+| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory and sales management system for purchasing, stock tracking, and operational reporting | React, Ant Design, Firebase, JavaScript |
+| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Modern property listing experience with responsive browsing and a polished front-end experience | Next.js, Chakra UI, Framer Motion, TypeScript |
+| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS dashboard designed for patient and provider workflows with a clean, product-focused interface | Next.js, Tailwind CSS, TypeScript, UI/UX Design |
 
 ---
 
