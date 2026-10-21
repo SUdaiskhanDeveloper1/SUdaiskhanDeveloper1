@@ -39,14 +39,19 @@ const sudais = {
 
 ## ⭐ Featured Projects
 
+👉 **Short on time?** Start with **Lavish Hostel Management** (full-stack, live) and **Hirewave** (two-sided marketplace, clean architecture and a full README).
+
 | Project | What It Delivers | Tech Stack |
 |---|---|---|
-| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform covering admissions, room allocation, billing, reporting, and admin workflows | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform: admissions, room allocation, fee collection with PDF receipts, payroll, reporting and an audit log, backed by Postgres triggers | React, TypeScript, Vite, Ant Design, Supabase, PostgreSQL |
 | [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* |Campaign platform for prize draws with user dashboards, payment verification, and an admin back office for live operations | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
-| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard for revenue tracking, MRR/ARR monitoring, customer insights, and transaction reporting | Next.js, TypeScript, TanStack Query, Supabase, PostgreSQL |
-| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Inventory management system for purchases, stock tracking, sales operations, and business reporting | React, Ant Design, Firebase, JavaScript |
-| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Modern property marketplace UI focused on listing discovery, clean navigation, and polished user experience | Next.js, Chakra UI, Framer Motion, TypeScript |
-| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS interface for patient and provider workflows with a streamlined, product-focused dashboard experience | Next.js, Tailwind CSS, TypeScript, UI/UX Design |
+| [**Hirewave**](https://github.com/SUdaiskhanDeveloper1/Hirewave) | Two-sided job marketplace: filtered job search, saved jobs and application tracking for candidates, plus a recruiter dashboard with analytics, an applicant pipeline and a job-posting wizard | Next.js 16, React 19, TypeScript, TanStack Query, Tailwind CSS 4 |
+| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard: revenue, MRR/ARR, customers and traffic, built as a frontend on a typed mock data layer | Next.js, TypeScript, TanStack Query and Table, Recharts, Zod |
+| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Back-office system for stock, suppliers, purchases, sales, expenses and reports, with real-time updates | React, Vite, Ant Design, Firebase (Firestore, Auth, Storage) |
+| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Property marketplace UI: search, property pages, agent profiles and a lead dashboard (mock data) | Next.js, TypeScript, Chakra UI, Framer Motion |
+| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS interface with patient and provider dashboards, care programs and appointment flows (mock data) | Next.js, TypeScript, Chakra UI |
+
+<sub>Frontend-focused builds run on a typed mock data layer so they work without a backend. Full-stack projects list their database.</sub>
 
 ---
 
