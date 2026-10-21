@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=200&section=header&text=Sudais%20Khan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20React%20%26%20Next.js%20%7C%20Supabase%20%26%20PostgreSQL&descSize=18&descAlignY=60" alt="Sudais Khan - Full-Stack AI Engineer, React, Next.js, TypeScript, Supabase" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=180&section=header&text=Sudais%20Khan&fontSize=52&fontColor=ffffff" alt="Sudais Khan - Full-Stack AI Engineer" width="100%" />
+
+**Full-Stack AI Engineer | React • Next.js • TypeScript • Supabase • PostgreSQL**
 
 ### 🚀 Building Fast, Scalable & Production-Ready Web Applications
 
