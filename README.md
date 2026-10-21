@@ -41,15 +41,22 @@ const sudais = {
 
 👉 **Short on time?** Start with **Lavish Hostel Management** (full-stack, live) and **Hirewave** (two-sided marketplace, clean architecture and a full README).
 
-| Project | What It Delivers | Tech Stack |
-|---|---|---|
-| [**Lavish Hostel Management**](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-) · [Live](https://lavish-boys-hostel-theta.vercel.app/) | Hostel operations platform: admissions, room allocation, fee collection with PDF receipts, payroll, reporting and an audit log, backed by Postgres triggers | React, TypeScript, Vite, Ant Design, Supabase, PostgreSQL |
-| [**LuckyDraw.PK**](https://luckydraw-pk.vercel.app/) · Live *(private client code)* |Campaign platform for prize draws with user dashboards, payment verification, and an admin back office for live operations | Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
-| [**Hirewave**](https://github.com/SUdaiskhanDeveloper1/Hirewave) | Two-sided job marketplace: filtered job search, saved jobs and application tracking for candidates, plus a recruiter dashboard with analytics, an applicant pipeline and a job-posting wizard | Next.js 16, React 19, TypeScript, TanStack Query, Tailwind CSS 4 |
-| [**Pulse Analytics**](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard) | SaaS analytics dashboard: revenue, MRR/ARR, customers and traffic, built as a frontend on a typed mock data layer | Next.js, TypeScript, TanStack Query and Table, Recharts, Zod |
-| [**Laptop Shop Manager**](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system) | Back-office system for stock, suppliers, purchases, sales, expenses and reports, with real-time updates | React, Vite, Ant Design, Firebase (Firestore, Auth, Storage) |
-| [**EstatePro**](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System) · [Live](https://real-estate-system-ten.vercel.app/) | Property marketplace UI: search, property pages, agent profiles and a lead dashboard (mock data) | Next.js, TypeScript, Chakra UI, Framer Motion |
-| [**CareSync**](https://github.com/SUdaiskhanDeveloper1/Health-remote) · [Live](https://health-remote.vercel.app/) | Healthcare SaaS interface with patient and provider dashboards, care programs and appointment flows (mock data) | Next.js, TypeScript, Chakra UI |
+### 🚀 Product Builds
+
+- **[Lavish Hostel Management](https://github.com/SUdaiskhanDeveloper1/Lavish-boys-hostel-)** · [Live demo](https://lavish-boys-hostel-theta.vercel.app/)<br>Hostel operations platform: admissions, room allocation, fee collection with PDF receipts, payroll, reporting and an audit log, backed by Postgres triggers<br>🛠 React · TypeScript · Vite · Ant Design · Supabase · PostgreSQL
+- **LuckyDraw.PK** · [Live site](https://luckydraw-pk.vercel.app/) · *client project, code private*<br>Campaign platform for prize draws with user dashboards, payment verification, and an admin back office for live operations<br>🛠 Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS
+- **[Hirewave](https://github.com/SUdaiskhanDeveloper1/Hirewave)**<br>Two-sided job marketplace: filtered job search, saved jobs and application tracking for candidates, plus a recruiter dashboard with analytics, an applicant pipeline and a job-posting wizard<br>🛠 Next.js 16 · React 19 · TypeScript · TanStack Query · Tailwind CSS 4
+- **[Pulse Analytics](https://github.com/SUdaiskhanDeveloper1/Analytics-SaaS-Dashboard)**<br>SaaS analytics dashboard: revenue, MRR/ARR, customers and traffic, built as a frontend on a typed mock data layer<br>🛠 Next.js · TypeScript · TanStack Query and Table · Recharts · Zod
+- **[Laptop Shop Manager](https://github.com/SUdaiskhanDeveloper1/laptop-shop-management-system)**<br>Back-office system for stock, suppliers, purchases, sales, expenses and reports, with real-time updates<br>🛠 React · Vite · Ant Design · Firebase (Firestore · Auth · Storage)
+- **[EstatePro](https://github.com/SUdaiskhanDeveloper1/Real-Estate-System)** · [Live demo](https://real-estate-system-ten.vercel.app/)<br>Property marketplace UI: search, property pages, agent profiles and a lead dashboard (mock data)<br>🛠 Next.js · TypeScript · Chakra UI · Framer Motion
+- **[CareSync](https://github.com/SUdaiskhanDeveloper1/Health-remote)** · [Live demo](https://health-remote.vercel.app/)<br>Healthcare SaaS interface with patient and provider dashboards, care programs and appointment flows (mock data)<br>🛠 Next.js · TypeScript · Chakra UI
+
+### 🏢 Professional Work: Business Websites
+
+- **[Manchester Grab Hire](https://github.com/SUdaiskhanDeveloper1/Manchester-grab-hire)**<br>Business website for a Manchester grab hire, muck away and aggregates company, with instant estimates and per-load pricing<br>🛠 Next.js · React · TypeScript
+- **[Football Academy](https://github.com/SUdaiskhanDeveloper1/Football-academy)**<br>Website for a youth football coaching academy in Manchester<br>🛠 Next.js · React · TypeScript · Chakra UI
+- **[Elevator & Escalator](https://github.com/SUdaiskhanDeveloper1/elevator-escalator)**<br>Elevator and escalator services website with a validated contact form and email delivery via Nodemailer<br>🛠 Next.js · TypeScript · Tailwind CSS · Framer Motion · React Hook Form · Zod
+- **[Furniture Showroom](https://github.com/SUdaiskhanDeveloper1/Furniture-showroom)** · [Live demo](https://furniture-showroom-nine.vercel.app)<br>Furniture showroom web app: browse collections and view detailed product information<br>🛠 Next.js · React · TypeScript · Chakra UI · Framer Motion
 
 <sub>Frontend-focused builds run on a typed mock data layer so they work without a backend. Full-stack projects list their database.</sub>
 
